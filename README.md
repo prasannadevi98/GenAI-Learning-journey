@@ -1,4 +1,4 @@
-# Python Learning Journey
+# GenAI Learning Journey
 
 This repository documents my step-by-step learning journey with TechPanda. I am learning Python from the basics to advanced concepts, then applying it to Generative AI and agentic AI.
 
